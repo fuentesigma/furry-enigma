@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = "J. Fuenters"
+__author__ = "J. Fuentes"
 __version__ = "0.1"
 __email__ = "jesus.fuentes@uni.lu"
 
